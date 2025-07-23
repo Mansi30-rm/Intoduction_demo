@@ -1,0 +1,5 @@
+print("Hello, GitHub!")
+print("My name is Mansi Lal.")
+print("This is my first repository.")
+print("I am learning Python, SQL, Pandas, and Data Visualization.")
+print("I'm passionate about Data Science and solving real-world problems.")
