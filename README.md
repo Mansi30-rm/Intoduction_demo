@@ -4,7 +4,7 @@ This is my very first GitHub repository. I'm using this project to introduce mys
 
 # About Me
 
-- I’m a final-year BSc IT student
+- I’m a BSc IT student
 - Aspiring Data Scientist
 - Currently learning: Python, SQL, Pandas, and Data Visualization
 - Passionate about exploring data and solving real-world problems
