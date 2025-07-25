@@ -1,4 +1,4 @@
-<img src="https://github.com/Mansi30-rm/Mansi30-rm/blob/main/first_repo.png" alt="GitHub Banner" style="width:100%;" />
+<img src="https://github.com/Mansi30-rm/Intoduction_demo/main/first_repo.png" alt="GitHub Banner" style="width:100%;" />
 
 #  My First Repository
 
