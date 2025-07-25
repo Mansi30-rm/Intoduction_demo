@@ -1,3 +1,5 @@
+<img src="https://github.com/Mansi30-rm/Mansi30-rm/blob/main/first_repo.png" alt="GitHub Banner" style="width:100%;" />
+
 #  My First Repository
 
 This is my very first GitHub repository. I'm using this project to introduce myself and show what I'm currently learning.
